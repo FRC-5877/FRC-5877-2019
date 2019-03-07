@@ -4,8 +4,8 @@ plugins {
     id "idea"
 }
 
-sourceCompatibility = JavaVersion.VERSION_11
-targetCompatibility = JavaVersion.VERSION_11
+sourceCompatibility = JavaVersion.VERSION_1_8
+targetCompatibility = JavaVersion.VERSION_1_8
 
 def ROBOT_MAIN_CLASS = "com.team5877.robot.Main"
 
